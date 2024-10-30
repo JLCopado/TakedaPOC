@@ -62,6 +62,8 @@ samlssoconfigs/*
 # Salesforce and Copado cache
 .sf/*
 .sfdx/*
+.code/*
 .husky/*
 .vscode/*
+.idea/*
 .copado/*
